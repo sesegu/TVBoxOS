@@ -608,7 +608,7 @@ public class DetailActivity extends BaseActivity {
                     }
                     mVideo = absXml.movie.videoList.get(0);
                     mVideo.id = vodId;
-                    if (TextUtils.isEmpty(mVideo.name))mVideo.name = "TVBox";
+                    if (TextUtils.isEmpty(mVideo.name))mVideo.name = "涩色谷TV";
                     vodInfo = new VodInfo();
                     vodInfo.setVideo(mVideo);
                     vodInfo.sourceKey = mVideo.sourceKey;
