@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:lineSpacingExtra="@dimen/ts_50"
         android:lineSpacingMultiplier="0"
-        android:text="接投稿，保密。。。欢迎投稿，有稿酬！\n\n联系方式\n飞机@qutanhuanhttp://sesegu.x10.mx/log/lyb/ly.php"
+        android:text="接投稿，保密。。。欢迎投稿，有稿酬！\n\n联系方式\n飞机@qutanhua\nhttp://sesegu.x10.mx/log/lyb/ly.php"
         android:textColor="@color/color_CC000000"
         android:textSize="@dimen/ts_24" />
 
