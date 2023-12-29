@@ -127,7 +127,7 @@ public class ApiConfig {
     }
 
     public void loadConfig(boolean useCache, LoadConfigCallback callback, Activity activity) {
-        String apiUrl = Hawk.get(HawkConfig.API_URL, "http://sesegu.x10.mx/stv/");
+        String apiUrl = Hawk.get(HawkConfig.API_URL, "https://www.baidu.com/");
         if (apiUrl.isEmpty()) {
             callback.error("-1");
             return;
